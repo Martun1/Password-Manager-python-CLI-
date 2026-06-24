@@ -1,12 +1,7 @@
-
----
-
-# ✅ **2. Password Manager (Python CLI) — README.md**
-
-```markdown
 # 🔐 Password Manager (CLI)
 
-A lightweight Python command-line password manager for storing and retrieving credentials securely.
+A lightweight Python command-line password manager for securely storing and retrieving credentials.  
+Simple, fast, and perfect for practicing secure storage concepts.
 
 ---
 
@@ -14,9 +9,9 @@ A lightweight Python command-line password manager for storing and retrieving cr
 
 - Add new passwords  
 - Retrieve saved passwords  
-- Simple encryption layer (if implemented)  
+- Optional encryption layer  
 - Local file-based storage  
-- Clean CLI interface  
+- Clean and intuitive CLI interface  
 
 ---
 
